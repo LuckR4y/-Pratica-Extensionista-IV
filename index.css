@@ -130,7 +130,7 @@ main {
 .principal p {
   font-size: 16px;
   margin-bottom: 25px;
-  background: linear-gradient(230deg, #06d496, #026c4c);
+  background: linear-gradient(180deg, #06d496, #026c4c);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
