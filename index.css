@@ -822,4 +822,56 @@ footer {
   .infos {
     padding: 30px 20px;
   }
+
+    .logo-conteiner {
+    margin-left: 0;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .logo-conteiner img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .bloco-objetivo,
+  .bloco2-objetivo {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .bloco-objetivo img,
+  .bloco2-objetivo img {
+    transform: none;
+    margin: 0;
+    width: 90%;
+    height: auto;
+  }
+
+  .maps iframe {
+    width: 100%;
+    height: 300px;
+  }
+
+  .modal-conteudo img {
+    height: auto;
+    max-height: 300px;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .footer-direito {
+    margin-top: 0;
+  }
+
+  .carrossel-slide img {
+    height: auto;
+    max-height: 300px;
+  }
+
+
 }
